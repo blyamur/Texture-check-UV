@@ -20,6 +20,12 @@ Image format: PNG + SVG
 
 License: It is allowed to use both non-commercial projects and in commercial projects, as well as make changes and distribute with the obligatory condition of mentioning the author or indicating a link to the source.
 
+### Above you can download in the formats:
+
+SVG -  UV Checker Map blog-mons-ws.svg 
+
+PNG - UV Checker Map blog-mons-ws.png
+
 
 ### Did you find this useful?! | Вы нашли это  полезным ?!
 
