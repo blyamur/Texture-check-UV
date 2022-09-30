@@ -26,14 +26,12 @@ SVG -  UV Checker Map blog-mons-ws.svg
 
 PNG - UV Checker Map blog-mons-ws.png
 
+[Эта страница на русском языке](https://github.com/blyamur/texture-to-check-UV/blob/main/README_RU.md)
 
-### Did you find this useful?! | Вы нашли это  полезным ?!
+### Did you find this useful?!
 
 Happy to hear that :) *If You want to help me, you can buy me a cup of cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/W7W460SQ3) )*
 
-> Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашечкой кофе 
-
 *Thanks for reading :heart_eyes_cat:*
-> Спасибо за чтение!
 
 ~Mons
