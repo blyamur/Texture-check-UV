@@ -26,6 +26,8 @@ SVG -  UV Checker Map blog-mons-ws.svg
 
 PNG - UV Checker Map blog-mons-ws.png
 
+[Эта страница на английском языке](https://github.com/blyamur/texture-to-check-UV)
+
 
 ### Вы нашли это  полезным ?!
 
